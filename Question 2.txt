@@ -1,0 +1,5 @@
+Question: 2] Explain how you can implement ML in a real world application.
+
+Answer - we can implement ML in real world application according to the goal,according to our desire and depending on problem we are facing. For building real world ML model first of all we need to examine the situation and break the problems into small steps for example if i need to predict the price or yes OR no in problem statement what i will do is i will examine whether my target varible is categorical(yes or no) or numerical(dicreate and continues)
+if target varible is categorical then we need to use classification supervised learning and if it is numerical then we need to use regression supervised learning likewise we will use every algorithms in machine learning and monitor the accuracy of our models. From these models we will pick our best accuracy giving model.so far these models are limited to ourself we need to build a end_to_end application which will be acceble to end users.Here comes the MLOps 
+which is the process of taking our model to production level.
